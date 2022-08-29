@@ -5,11 +5,11 @@
 
 ## Live
 * Live Sass Compiler
-* Live Server
-* Live Share
+* [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+* [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
 
 # Auto
-* Auto Close Tag
+* [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 * Auto Complete Tag
 * Auto Rename Tag
 
