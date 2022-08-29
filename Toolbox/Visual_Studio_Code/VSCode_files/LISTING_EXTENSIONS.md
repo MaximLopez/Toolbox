@@ -1,7 +1,7 @@
 # Visual Studio Code - Extensions
 ## Themes & icons
-* Material Icon Theme
-* Dracula
+* [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+* [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 
 ## Live
 * Live Sass Compiler
